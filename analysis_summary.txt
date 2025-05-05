@@ -1,0 +1,10 @@
+Market Basket Analysis Summary
+
+Key Findings:
+- Top associations: Milk & Bread, Eggs & Butter (high lift).
+- High confidence for Milk -> Bread (buyers of Milk likely buy Bread).
+
+Recommendations:
+- Offer bundles (e.g., Milk + Bread discount).
+- Place associated products near each other.
+- Run targeted promotions for high-lift pairs.
